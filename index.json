@@ -1,0 +1,11 @@
+[
+  {
+    "name": "TheCollector",
+    "author": "Da-Damych",
+    "version": "1.0.0",
+    "description": "Квест на сбор ресурсов",
+    "url": "https://raw.githubusercontent.com/Da-Damych/Test/main/TheCollector.zip",
+    "category": "collect",
+    "tags": ["collect", "resources"]
+  }
+]
