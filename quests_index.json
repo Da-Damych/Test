@@ -1,10 +1,10 @@
 {
   "quests": [
     {
-      "id": "the_collector",
+      "id": "the_collector_pack",
       "name": "Коллекционер: 100 волн",
       "author": "Da-Damych",
-      "description": "Одолейте 100 волн мобов...",
+      "description": "Сразитесь с 100 волнами монстров, собранных Волшебником. Начинать квест только ночью. При проблемах – подойдите к Волшебнику ещё раз, он перезапустит волну.",
       "npc": "Wizard",
       "tags": ["битва", "волны", "сложный"],
       "image_url": "https://raw.githubusercontent.com/Da-Damych/Test/main/images/the_collector.png",
