@@ -1,0 +1,17 @@
+{
+  "quests": [
+    {
+      "id": "the_collector",
+      "name": "Коллекционер",
+      "author": "Da-Damych",
+      "description": "Одолейте 100 волн мобов, сражаясь с коллекцией Волшебника. Важно: начинать квест только ночью, иначе мобы сгорят на солнце. При проблемах – подойдите к Волшебнику ещё раз, он перезапустит волну.",
+      "npc": "Wizard",
+      "tags": ["битва", "волны", "коллекционирование", "сложный"],
+      "image_url": "https://raw.githubusercontent.com/Da-Damych/Test/main/images/the_collector.png",
+      "files": [
+        "TheCollector.xml"
+      ],
+      "version": "1.0"
+    }
+  ]
+}
